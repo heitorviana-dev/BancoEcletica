@@ -23,7 +23,7 @@ Essa plataforma deverá oferecer dashboards para extração de insights e apoiar
 
     - Formulário para inserir os dados que hoje vão para a planilha.
 
-3. Listagem de registros:
+3. Listagem de processos:
 
     - Tabela para ver, filtrar e ordenar os dados.
 
@@ -71,7 +71,7 @@ Essa plataforma deverá oferecer dashboards para extração de insights e apoiar
 
 - Critérios de Aceite:
 
-    - Dado que informo e-mail válido e senha correta, quando clico em Entrar, então sou redirecionado à tela de registros.
+    - Dado que informo e-mail válido e senha correta, quando clico em Entrar, então sou redirecionado à tela de processos.
 
     - Dado e-mail ou senha incorretos, quando tento entrar, então vejo mensagem amigável sem expor qual campo errou.
 
@@ -87,7 +87,7 @@ Essa plataforma deverá oferecer dashboards para extração de insights e apoiar
 
     - Qualquer usuário ativo pode logar; Gestor acessa telas de dashboard.
 
-### RF-02 - Cadastro de Registro:
+### RF-02 - Cadastro de Processos:
 
 - User Story:
 
@@ -149,11 +149,11 @@ Essa plataforma deverá oferecer dashboards para extração de insights e apoiar
 
     - Gestor visualiza o dashboard.
 
-### RF-04 - Página de listagem de registros:
+### RF-04 - Página de listagem de processos:
 
 - User Story:
 
-    - Como funcionário, quero acessar uma página com todos os registros, para visualizar e consultar as informações cadastradas.
+    - Como funcionário, quero acessar uma página com todos os processos, para visualizar e consultar as informações cadastradas.
 
 - Prioridade: 
 
