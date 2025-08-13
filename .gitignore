@@ -1,0 +1,2 @@
+# Ignorar .env da pasta infra
+infra/.env
